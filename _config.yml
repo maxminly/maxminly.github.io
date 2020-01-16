@@ -3,7 +3,7 @@ title: 阿西的神秘海域
 SEOTitle: 阿西的神秘海域 | AXI
 header-img: img/post-bg-desk.jpg
 email: maxminly@outlook.com
-description: "让改变发生."
+description: "让改变发生"
 keyword: "阿西的博客,阿西的神秘海域"
 url: "http://maxminly.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 9ddfbf1b5ad470f80936                           #生成的clientID
+  clientSecret: 15cba70712201cb5ffc3a94f81602dbbcf0f5ec9d    #生成的clientSecret
+  repo: maxminly.github.io    #仓库名称
+  owner: maxminly    #github用户名
+  admin: maxminly
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
