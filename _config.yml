@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 9ddfbf1b5ad470f80936                           #生成的clientID
   clientSecret: 15cba70712201cb5ffc3a94f81602dbbcf0f5ec9d    #生成的clientSecret
   repo: maxminly.github.io    #仓库名称
